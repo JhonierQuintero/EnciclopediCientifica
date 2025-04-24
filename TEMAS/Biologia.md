@@ -36,3 +36,9 @@ La biología es la ciencia que estudia los seres vivos, su estructura, función,
 - Las medusas no tienen cerebro ni corazón, pero pueden sobrevivir.
 - Los tardígrados (osos de agua) pueden sobrevivir en el vacío del espacio.
 
+## Referencias
+
+- Campbell, N. A., & Reece, J. B. (2017). Biology. Pearson.
+- Alberts, B., et al. (2014). Molecular Biology of the Cell. Garland Science.
+- Sitio web: [Khan Academy - Biology](https://www.khanacademy.org/science/biology).
+- Divulgación: [National Geographic](https://www.nationalgeographic.com/science/).
