@@ -36,3 +36,9 @@ La astronomía es la ciencia que estudia los cuerpos celestes (estrellas, planet
 - Los agujeros negros son tan densos que ni la luz puede escapar de ellos.
 - La estrella más cercana al Sol, Proxima Centauri, está a 4.24 años luz.
 
+## Referencias
+
+- Tyson, N. D. (2017). Astrophysics for People in a Hurry. W.W. Norton & Company.
+- Seeds, M. A., & Backman, D. (2017). Foundations of Astronomy. Cengage Learning.
+- Sitio web: [NASA](https://www.nasa.gov/).
+- Observación: [Sky & Telescope](https://skyandtelescope.org/).
