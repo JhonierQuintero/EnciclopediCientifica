@@ -30,3 +30,9 @@ La astronomía es la ciencia que estudia los cuerpos celestes (estrellas, planet
    - Procedimiento: Construye un espectroscopio simple usando el CD para dispersar la luz. Observa el espectro de diferentes fuentes de luz (bombilla, Sol).
    - Concepto ilustrado: Análisis de la luz estelar.
 
+## Curiosidades
+
+- Si viajaras a la velocidad de la luz, tardarías 100,000 años en cruzar la Vía Láctea.
+- Los agujeros negros son tan densos que ni la luz puede escapar de ellos.
+- La estrella más cercana al Sol, Proxima Centauri, está a 4.24 años luz.
+
