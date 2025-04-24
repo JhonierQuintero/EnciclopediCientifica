@@ -1,6 +1,6 @@
 # Enciclopedia Cientifica 
 
-        ⚗️🧪🔭🧬🫧
+⚗️🧪🔭🧬🫧📡🩸💊🩻🧲🌗🌕🌒🌧️
 
 Bienvenido ala Enciclopedia Cientifica aca encontraras informcion relevante de distintos tipos de temas cientificos:
 
