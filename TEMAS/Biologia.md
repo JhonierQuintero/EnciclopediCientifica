@@ -30,3 +30,9 @@ La biología es la ciencia que estudia los seres vivos, su estructura, función,
    - Procedimiento: Hierve hojas en alcohol para extraer clorofila, luego usa yodo para detectar almidón (producto de la fotosíntesis).
    - Concepto ilustrado: Producción de energía en plantas.
 
+## Curiosidades
+
+- El ADN humano comparte un 98% de similitud con el de los chimpancés.
+- Las medusas no tienen cerebro ni corazón, pero pueden sobrevivir.
+- Los tardígrados (osos de agua) pueden sobrevivir en el vacío del espacio.
+
