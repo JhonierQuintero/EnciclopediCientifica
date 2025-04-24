@@ -30,4 +30,10 @@ La química es la ciencia que estudia la composición, estructura, propiedades y
    - Procedimiento: Disuelve sal en agua caliente hasta saturar. Suspende un hilo y deja reposar varios días para formar cristales.
    - Concepto ilustrado: Estructura molecular y solubilidad.
 
+## Curiosidades
+
+- El diamante y el grafito están hechos de carbono, pero sus estructuras los hacen completamente diferentes.
+- La química explica por qué el jabón limpia: las moléculas de jabón atrapan la grasa.
+- El olor de la lluvia está causado por actinomicetos, bacterias que liberan un aroma al mojarse.
+
 
