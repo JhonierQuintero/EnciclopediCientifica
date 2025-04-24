@@ -15,5 +15,18 @@ La física es la ciencia que estudia la materia, la energía y sus interacciones
 - *Relatividad*: Efectos del tiempo y el espacio en objetos a altas velocidades o en campos gravitacionales intensos.
   - Ejemplo: E=mc², la equivalencia entre masa y energía.
 
+## Experimentos Representativos
 
+1. *Péndulo Simple (Mecánica)*:
+   - Materiales: Cuerda, peso (como una pelota pequeña), cronómetro.
+   - Procedimiento: Suspende el peso de la cuerda, déjalo oscilar y mide el período (tiempo de una oscilación completa). Cambia la longitud de la cuerda y observa cómo afecta el período.
+   - Concepto ilustrado: Conservación de la energía y movimiento armónico.
+2. *Circuito Eléctrico Básico (Electromagnetismo)*:
+   - Materiales: Pila, cables, bombilla pequeña, interruptor.
+   - Procedimiento: Conecta los componentes para encender la bombilla. Experimenta abriendo y cerrando el interruptor.
+   - Concepto ilustrado: Flujo de corriente eléctrica y circuitos.
+3. *Refracción de la Luz (Óptica)*:
+   - Materiales: Vaso con agua, lápiz, linterna.
+   - Procedimiento: Coloca el lápiz parcialmente en el agua y observa cómo parece "doblarse" desde ciertos ángulos. Usa la linterna para ver cómo la luz cambia de dirección al pasar del aire al agua.
+   - Concepto ilustrado: Refracción y propiedades de la luz.
 
