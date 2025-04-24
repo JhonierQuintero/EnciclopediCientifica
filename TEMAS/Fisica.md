@@ -30,3 +30,9 @@ La física es la ciencia que estudia la materia, la energía y sus interacciones
    - Procedimiento: Coloca el lápiz parcialmente en el agua y observa cómo parece "doblarse" desde ciertos ángulos. Usa la linterna para ver cómo la luz cambia de dirección al pasar del aire al agua.
    - Concepto ilustrado: Refracción y propiedades de la luz.
 
+## Curiosidades
+
+- La velocidad de la luz (299,792,458 m/s) es la constante universal más famosa.
+- El experimento del gato de Schrödinger es un concepto mental que ilustra las paradojas de la mecánica cuántica.
+- La física explica por qué los aviones vuelan (sustentación) y cómo funcionan los agujeros negros.
+
