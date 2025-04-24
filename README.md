@@ -6,7 +6,7 @@ Bienvenido ala Enciclopedia Cientifica aca encontraras informcion relevante de d
 
 ## Temas
 - 🧊[Fisica](Temas/Fisica.md)
-- ⚗️[Quimica](Temas/Quinica.md)
+- ⚗️[Quimica](Temas/Quimica.md)
 - 🦘[Biologia](Temas/Biologia.md)
 - 🌔[Astronomia](Temas/Astronomia.md)
 
