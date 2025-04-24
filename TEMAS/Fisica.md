@@ -36,3 +36,9 @@ La física es la ciencia que estudia la materia, la energía y sus interacciones
 - El experimento del gato de Schrödinger es un concepto mental que ilustra las paradojas de la mecánica cuántica.
 - La física explica por qué los aviones vuelan (sustentación) y cómo funcionan los agujeros negros.
 
+## Referencias
+
+- Feynman, R. (1963). The Feynman Lectures on Physics. Addison-Wesley.
+- Hawking, S. (1988). A Brief History of Time. Bantam Books.
+- Sitio web: [Physics Classroom](https://www.physicsclassroom.com/).
+- Artículos de divulgación en [Scientific American](https://www.scientificamerican.com/).
