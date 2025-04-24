@@ -36,4 +36,9 @@ La química es la ciencia que estudia la composición, estructura, propiedades y
 - La química explica por qué el jabón limpia: las moléculas de jabón atrapan la grasa.
 - El olor de la lluvia está causado por actinomicetos, bacterias que liberan un aroma al mojarse.
 
+## Referencias
 
+- Atkins, P., & de Paula, J. (2014). Physical Chemistry. Oxford University Press.
+- Brown, T. L., et al. (2017). Chemistry: The Central Science. Pearson.
+- Sitio web: [American Chemical Society](https://www.acs.org/).
+- Experimentos caseros: [Science Buddies](https://www.sciencebuddies.org/).
